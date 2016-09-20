@@ -1,4 +1,4 @@
-Grove - Voice Recognizer
+Grove - Speech Recognizer
 ---
 
 **SKU**: No yet
